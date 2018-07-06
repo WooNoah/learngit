@@ -1,2 +1,2 @@
-hello world, hello git.
-insert a new line below the current line.
+Git is a version control system.
+Git is free software.
